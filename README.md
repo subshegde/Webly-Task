@@ -2,9 +2,9 @@
 
 A full-featured eCommerce app built using **Flutter** with **Bloc(Cubit)** for state management, **Clean Architecture** principles, and **Dependency Injection** via `get_it`. This project demonstrates scalable project structure, clean code separation, and modern UI practices.
 
-## Screenshots
+## Screenshots & video
 
-## video
+https://github.com/user-attachments/assets/5e64693d-7321-4d05-a994-a5662aae3edd
 
 ## 🚀 Features
 
